@@ -1,0 +1,32 @@
+/* Copied from services.css, applies styles for services page */
+.header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 43px;
+    background: #29a85c;
+}
+
+.header a {
+    color: #fff;
+    padding: 20px;
+    line-height: 5px;
+    float: left;
+    text-decoration: none;
+}
+
+.header #logout {
+    float: right;
+}
+
+.services {
+    position: absolute;
+    top: 100px;
+    right: 0;
+    left: 0;
+}
+
+.id {
+    display: none;
+}
