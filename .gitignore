@@ -3,6 +3,16 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Healthcare-specific files
+*.hipaa
+patient-data/
+medical-records/
+phi-data/
+
+# Docker-specific ignores
+docker-compose.override.yml
+.dockerignore
+
 # User-specific files
 *.rsuser
 *.suo
