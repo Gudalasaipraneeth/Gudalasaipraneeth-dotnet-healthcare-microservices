@@ -50,8 +50,8 @@ This project is currently being developed to build a comprehensive healthcare ma
 ### Development Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dotnet-healthcare-microservices.git
-cd dotnet-healthcare-microservices
+git clone https://github.com/Gudalasaipraneeth/Gudalasaipraneeth-dotnet-healthcare-microservices.git
+cd Gudalasaipraneeth-dotnet-healthcare-microservices
 
 # Start MongoDB
 docker run -d -p 27017:27017 mongo
