@@ -256,5 +256,12 @@ This is an active development project. Current focus areas:
 2. Healthcare compliance features
 3. Integration testing
 4. Documentation improvements
-   
+
+📞 Contact
+Gudala Sai Praneeth
+
+📧 Email: saigudala188@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/gudalasaipraneeth/
+🐙 GitHub: @Gudalasaipraneeth
+
 *This project demonstrates modern microservices architecture applied to healthcare management systems.*
