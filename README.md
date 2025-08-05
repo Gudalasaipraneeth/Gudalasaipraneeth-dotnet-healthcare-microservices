@@ -256,10 +256,5 @@ This is an active development project. Current focus areas:
 2. Healthcare compliance features
 3. Integration testing
 4. Documentation improvements
-
-## 📞 Contact
-
-For questions about the healthcare domain implementation or architecture decisions, please open an issue.
-
----
+   
 *This project demonstrates modern microservices architecture applied to healthcare management systems.*
